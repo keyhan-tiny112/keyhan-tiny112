@@ -3,7 +3,7 @@ Programmer interested in developer tools, and simple fast software.
 
 I enjoy building small tools that solve real problems with minimal complexity.
 
-Most of my work focuses on Python, Linux, and systems-oriented development.
+Most of my work focuses on Python and systems-oriented development.
 
 ## Interests
 - developer tools
