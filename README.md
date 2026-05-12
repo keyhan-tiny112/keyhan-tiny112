@@ -1,5 +1,5 @@
 # Hi, I’m Keyhan
-Programmer interested in low‑level systems, developer tools, and simple fast software.
+Programmer interested in developer tools, and simple fast software.
 
 I enjoy building small tools that solve real problems with minimal complexity.
 
