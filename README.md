@@ -1,6 +1,6 @@
-<center>
-  <h1>Hi, I’m Keyhan</h1>
-</center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=8000&color=ADBAC7&center=false&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Keyhan+%E2%80%94+aka+%22Key%22)](https://git.io/typing-svg)
+
+---
 
 - 🔭 I’m currently working on '10 project with rust'
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
@@ -13,7 +13,7 @@ My skills :sparkles:
     <img src="https://skillicons.dev/icons?i=html,css,py,dart" /><br/>
     <img src="https://skillicons.dev/icons?i=windows,mint,arch,tauri,git" /><br/>
     <img src="https://skillicons.dev/icons?i=powershell,vscode" /><br/>
-    <img src="https://skillicons.dev/icons?i=django,flutter,github,stackoverflow,linkedin" />
+    <img src="https://skillicons.dev/icons?i=django,flutter,github,stackoverflow,linkedin,ubuntu" />
   </a>
 </p>
 
