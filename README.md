@@ -10,15 +10,15 @@ My skills :sparkles:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,lua,md,rust" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,py,dart" /><br/>
     <img src="https://skillicons.dev/icons?i=windows,mint,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,py,dart" /><br/>
     <img src="https://skillicons.dev/icons?i=powershell,vscode,docker" /><br/>
     <img src="https://skillicons.dev/icons?i=django,flutter,github,stackoverflow,linkedin,ubuntu" />
   </a>
 </p>
 
 
-Links
+Links 🔗
 ------
 
 * GitHub: `https://github.com/keyhan-tiny112`
